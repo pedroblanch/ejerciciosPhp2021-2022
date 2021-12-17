@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$txt = "hjdfjhdjfhjdhfjdhfjh";
+$numero = 4;
+echo "I love \\\$txt! el mumero es $numero";
+echo "I love " . ($numero + $numero) . "!";
+
+?>
+
+</body>
+</html>

@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+  <?php
+echo strtoupper("mundo"); // outputs 6
+?> 
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+ <?php
+$x = 5985;
+echo is_int($x);
+
+$x = 59.85;
+echo is_int($x);
+?> 
+</body>
+</html>

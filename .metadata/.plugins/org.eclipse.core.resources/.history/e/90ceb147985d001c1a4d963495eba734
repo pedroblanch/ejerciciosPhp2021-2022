@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+  <?php
+  $cadena="Hello world!";
+echo strpos($cadena, "world"); // outputs 6
+?> 
+</body>
+</html>
