@@ -1,0 +1,6 @@
+ <form action="/action_page.php">
+  <label for="country_code">Country code:</label>
+  <input type="text" id="country_code" name="country_code"
+   title="Three letter country code"><br><br>
+  <input type="submit">
+</form> 
