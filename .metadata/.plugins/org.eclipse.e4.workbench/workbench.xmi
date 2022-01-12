@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_X5DSwTJNEeyDNd7fJviOkQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_X5DSwjJNEeyDNd7fJviOkQ" bindingContexts="_X5D51DJNEeyDNd7fJviOkQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;volumen_cilindro.php&quot; tooltip=&quot;ejerciciosBasicos/volumen_cilindro.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/volumen_cilindro.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;volumen_cilindro_form.php&quot; tooltip=&quot;ejerciciosBasicos/volumen_cilindro_form.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/volumen_cilindro_form.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;welcome.php&quot; tooltip=&quot;ejerciciosBasicos/welcome.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/welcome.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;welcome_form.php&quot; tooltip=&quot;ejerciciosBasicos/welcome_form.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/welcome_form.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;tabla_multiplicar_3.php&quot; tooltip=&quot;ejerciciosBasicos/tabla_multiplicar_3.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/tabla_multiplicar_3.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;tabla_multiplicar_2.php&quot; tooltip=&quot;ejerciciosBasicos/tabla_multiplicar_2.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/tabla_multiplicar_2.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;tabla_multiplicar_1.php&quot; tooltip=&quot;ejerciciosBasicos/tabla_multiplicar_1.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/tabla_multiplicar_1.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;index.php&quot; tooltip=&quot;holaMundo/index.php&quot;>&#xA;&lt;persistable path=&quot;/holaMundo/index.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;info.php&quot; tooltip=&quot;holaMundo/info.php&quot;>&#xA;&lt;persistable path=&quot;/holaMundo/info.php&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;mostrarDatosEmpleado.php&quot; tooltip=&quot;ejerciciosBasicos/mostrarDatosEmpleado.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/mostrarDatosEmpleado.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;formDatosEmpleado.php&quot; tooltip=&quot;ejerciciosBasicos/formDatosEmpleado.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/formDatosEmpleado.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;formDatos.php&quot; tooltip=&quot;ejerciciosBasicos/formDatos.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/formDatos.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;mostrarDatos.php&quot; tooltip=&quot;ejerciciosBasicos/mostrarDatos.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/mostrarDatos.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;volumen_cilindro_form.php&quot; tooltip=&quot;ejerciciosBasicos/volumen_cilindro_form.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/volumen_cilindro_form.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;volumen_cilindro.php&quot; tooltip=&quot;ejerciciosBasicos/volumen_cilindro.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/volumen_cilindro.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;welcome.php&quot; tooltip=&quot;ejerciciosBasicos/welcome.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/welcome.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;welcome_form.php&quot; tooltip=&quot;ejerciciosBasicos/welcome_form.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/welcome_form.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;tabla_multiplicar_3.php&quot; tooltip=&quot;ejerciciosBasicos/tabla_multiplicar_3.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/tabla_multiplicar_3.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;tabla_multiplicar_2.php&quot; tooltip=&quot;ejerciciosBasicos/tabla_multiplicar_2.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/tabla_multiplicar_2.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;tabla_multiplicar_1.php&quot; tooltip=&quot;ejerciciosBasicos/tabla_multiplicar_1.php&quot;>&#xA;&lt;persistable path=&quot;/ejerciciosBasicos/tabla_multiplicar_1.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;index.php&quot; tooltip=&quot;holaMundo/index.php&quot;>&#xA;&lt;persistable path=&quot;/holaMundo/index.php&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.php.editor&quot; name=&quot;info.php&quot; tooltip=&quot;holaMundo/info.php&quot;>&#xA;&lt;persistable path=&quot;/holaMundo/info.php&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_X5DSwjJNEeyDNd7fJviOkQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_YGZLMTJNEeyDNd7fJviOkQ" label="%trimmedwindow.label.eclipseSDK" x="0" y="28" width="1024" height="712">
     <persistedState key="coolBarVisible" value="true"/>
@@ -64,17 +64,17 @@
           <tags>persp.newWizSC:org.eclipse.php.phpunit.wizards.TestCaseWizard</tags>
           <tags>persp.newWizSC:org.eclipse.php.phpunit.wizards.TestSuiteWizard</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_YJeUYjJNEeyDNd7fJviOkQ" selectedElement="_YJeUZTJNEeyDNd7fJviOkQ" horizontal="true">
-            <children xsi:type="basic:PartStack" xmi:id="_YJeUYzJNEeyDNd7fJviOkQ" elementId="topLeft" containerData="2200" selectedElement="_YJeUZDJNEeyDNd7fJviOkQ">
+            <children xsi:type="basic:PartStack" xmi:id="_YJeUYzJNEeyDNd7fJviOkQ" elementId="topLeft" containerData="2132" selectedElement="_YJeUZDJNEeyDNd7fJviOkQ">
               <tags>noFocus</tags>
               <children xsi:type="advanced:Placeholder" xmi:id="_YJeUZDJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" ref="_YJY00DJNEeyDNd7fJviOkQ" closeable="true">
                 <tags>View</tags>
                 <tags>categoryTag:General</tags>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_YJeUZTJNEeyDNd7fJviOkQ" containerData="7800" selectedElement="_YJeUZjJNEeyDNd7fJviOkQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_YJeUZTJNEeyDNd7fJviOkQ" containerData="7868" selectedElement="_YJeUZjJNEeyDNd7fJviOkQ">
               <children xsi:type="basic:PartSashContainer" xmi:id="_YJeUZjJNEeyDNd7fJviOkQ" containerData="7500" selectedElement="_YJeUZzJNEeyDNd7fJviOkQ" horizontal="true">
-                <children xsi:type="advanced:Placeholder" xmi:id="_YJeUZzJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_YJSHIDJNEeyDNd7fJviOkQ"/>
-                <children xsi:type="basic:PartStack" xmi:id="_YJeUaDJNEeyDNd7fJviOkQ" elementId="right" containerData="2500" selectedElement="_YJeUaTJNEeyDNd7fJviOkQ">
+                <children xsi:type="advanced:Placeholder" xmi:id="_YJeUZzJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.editorss" containerData="9000" ref="_YJSHIDJNEeyDNd7fJviOkQ"/>
+                <children xsi:type="basic:PartStack" xmi:id="_YJeUaDJNEeyDNd7fJviOkQ" elementId="right" containerData="1000" selectedElement="_YJeUaTJNEeyDNd7fJviOkQ">
                   <children xsi:type="advanced:Placeholder" xmi:id="_YJeUaTJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.views.ContentOutline" ref="_YJbRETJNEeyDNd7fJviOkQ" closeable="true">
                     <tags>View</tags>
                     <tags>categoryTag:General</tags>
@@ -97,7 +97,7 @@
                   </children>
                 </children>
               </children>
-              <children xsi:type="basic:PartStack" xmi:id="_YJeUbjJNEeyDNd7fJviOkQ" elementId="bottom" containerData="2500" selectedElement="_YJeUbzJNEeyDNd7fJviOkQ">
+              <children xsi:type="basic:PartStack" xmi:id="_YJeUbjJNEeyDNd7fJviOkQ" elementId="bottom" containerData="2500" selectedElement="_YJeUczJNEeyDNd7fJviOkQ">
                 <children xsi:type="advanced:Placeholder" xmi:id="_YJeUbzJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.views.ProblemView" ref="_YJaC8DJNEeyDNd7fJviOkQ" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
@@ -171,30 +171,30 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_YJSHIDJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.editorss" selectedElement="_YJSHITJNEeyDNd7fJviOkQ">
-      <children xsi:type="basic:PartStack" xmi:id="_YJSHITJNEeyDNd7fJviOkQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_bPT_sGF7Eey2ivDDq_UeNg">
+      <children xsi:type="basic:PartStack" xmi:id="_YJSHITJNEeyDNd7fJviOkQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_iVEl8HOZEeytCIS8YasMmw">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_bPT_sGF7Eey2ivDDq_UeNg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="volumen_cilindro_form.php" iconURI="platform:/plugin/org.eclipse.php.ui/icons/full/obj16/phpfile.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.php.editor&quot; name=&quot;volumen_cilindro_form.php&quot; partName=&quot;volumen_cilindro_form.php&quot; title=&quot;volumen_cilindro_form.php&quot; tooltip=&quot;ejerciciosBasicos/volumen_cilindro_form.php&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ejerciciosBasicos/volumen_cilindro_form.php&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;339&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_-mXOIHOVEeytCIS8YasMmw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="formDatosEmpleado.php" iconURI="platform:/plugin/org.eclipse.php.ui/icons/full/obj16/phpfile.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.php.editor&quot; name=&quot;formDatosEmpleado.php&quot; partName=&quot;formDatosEmpleado.php&quot; title=&quot;formDatosEmpleado.php&quot; tooltip=&quot;ejerciciosBasicos/formDatosEmpleado.php&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ejerciciosBasicos/formDatosEmpleado.php&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;52&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1354&quot; selectionTopPixel=&quot;1158&quot;/>&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.php.editor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_iVEl8HOZEeytCIS8YasMmw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="mostrarDatosEmpleado.php" iconURI="platform:/plugin/org.eclipse.php.ui/icons/full/obj16/phpfile.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.php.editor&quot; name=&quot;mostrarDatosEmpleado.php&quot; partName=&quot;mostrarDatosEmpleado.php&quot; title=&quot;mostrarDatosEmpleado.php&quot; tooltip=&quot;ejerciciosBasicos/mostrarDatosEmpleado.php&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ejerciciosBasicos/mostrarDatosEmpleado.php&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1134&quot; selectionTopPixel=&quot;1256&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.php.editor</tags>
           <tags>active</tags>
           <tags>activeOnClose</tags>
         </children>
-        <children xsi:type="basic:Part" xmi:id="_uG8-oGF8Eey2ivDDq_UeNg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="volumen_cilindro.php" iconURI="platform:/plugin/org.eclipse.php.ui/icons/full/obj16/phpfile.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.php.editor&quot; name=&quot;volumen_cilindro.php&quot; partName=&quot;volumen_cilindro.php&quot; title=&quot;volumen_cilindro.php&quot; tooltip=&quot;ejerciciosBasicos/volumen_cilindro.php&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/ejerciciosBasicos/volumen_cilindro.php&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;289&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>removeOnHide</tags>
-          <tags>org.eclipse.php.editor</tags>
-        </children>
       </children>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_YJY00DJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.navigator.resources.ProjectExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.navigator.resources"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1634806846245&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xA;&lt;lastRecentlyUsedFilters/>&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1634806846245&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;1&quot;>&#xA;&lt;lastRecentlyUsedFilters/>&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_YL1E0DJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.navigator.ProjectExplorer">
@@ -272,8 +272,14 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_YJdtUDJNEeyDNd7fJviOkQ" elementId="org.eclipse.wst.server.ui.ServersView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Servers" iconURI="platform:/plugin/org.eclipse.wst.server.ui/icons/cview16/servers_view.gif" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.wst.server.ui.internal.cnf.ServersView2"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.wst.server.ui"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot;>&#xA;&lt;lastRecentlyUsedFilters/>&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:Server</tags>
+      <menus xmi:id="_wocxoHH8Eeyqs4K62shOeQ" elementId="org.eclipse.wst.server.ui.ServersView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_wocxoXH8Eeyqs4K62shOeQ" elementId="org.eclipse.wst.server.ui.ServersView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_YJdtUTJNEeyDNd7fJviOkQ" elementId="org.eclipse.php.phpunit.PHPUnitView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="PHPUnit" iconURI="platform:/plugin/org.eclipse.php.phpunit/icons/full/main.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.php.phpunit.ui.view.PHPUnitView"/>
@@ -294,7 +300,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_YHRU8DJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_bnclIGF2Eey2ivDDq_UeNg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_X5btZzJNEeyDNd7fJviOkQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_8GEboHOVEeytCIS8YasMmw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_X5btZzJNEeyDNd7fJviOkQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_YHRU8TJNEeyDNd7fJviOkQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -322,7 +328,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_YHRU-DJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_bnfBYGF2Eey2ivDDq_UeNg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_X5afTjJNEeyDNd7fJviOkQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_8GG34HOVEeytCIS8YasMmw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_X5afTjJNEeyDNd7fJviOkQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_YHR8ADJNEeyDNd7fJviOkQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2174,7 +2180,7 @@
   <addons xmi:id="_X5D54DJNEeyDNd7fJviOkQ" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_X5D54TJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_X5KngDJNEeyDNd7fJviOkQ" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_bbP8MWF2Eey2ivDDq_UeNg" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_76F1IHOVEeytCIS8YasMmw" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_X5WNsDJNEeyDNd7fJviOkQ" elementId="org.eclipse.team.ui.category.team" name="Version control (Team)" description="Actions that apply when working with a version control system"/>
   <categories xmi:id="_X5WNsTJNEeyDNd7fJviOkQ" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>

@@ -1,8 +1,0 @@
-<table border=1>
-<?php
-for($i=1;$i<=10;$i++){
-  $resultado=$i*5;
-  echo("<tr style='background-color:grey'><td>$i * 5</td><td>$resultado</td></tr>");    
-}
-?>
-</table>

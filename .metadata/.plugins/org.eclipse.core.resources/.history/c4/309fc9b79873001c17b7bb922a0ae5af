@@ -1,0 +1,27 @@
+<?php
+$apellidos=$_GET['apellidos'];
+$nombre=$_GET['nombre'];
+$dni=$_GET['dni'];
+$sueldo=$_GET['sueldo'];
+if(!isset($_GET['jefeProyecto'])){
+    $jefeProyecto=false;
+}
+else{
+    $jefeProyecto=true;
+}
+
+if(!isset($_GET['reduccionJornada'])){
+    $reduccionJornada=false;
+}
+else{
+    $reduccionJornada=true;
+}
+$categoria=$_GET['categoria'];
+
+$conocimientos[]=$_GET['conocimientos'];
+
+$deparmento=$_GET['departamento'];
+
+$formacion=$_GEt['formacion'];
+echo var_dump($conocimientos);
+?>
