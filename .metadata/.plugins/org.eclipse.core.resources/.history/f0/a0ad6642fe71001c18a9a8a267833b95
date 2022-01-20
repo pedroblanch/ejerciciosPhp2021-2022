@@ -1,4 +1,0 @@
-<?php
-$conocimientos=$_GET['conocimientos'];
-echo var_dump($conocimientos);
-?>
