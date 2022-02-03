@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item key="size.width" value="486"/>
+	<item key="size.height" value="346"/>
+	<item key="location.x" value="501"/>
+	<item key="location.y" value="185"/>
 	<section name="completion_proposal_size">
 	</section>
 	<section name="quick_outline_size">

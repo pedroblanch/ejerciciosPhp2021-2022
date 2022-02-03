@@ -2,4 +2,12 @@
 <section name="Workbench">
 	<section name="CallHierarchySearchScope">
 	</section>
+	<section name="org.eclipse.dltk.internal.ui.text.QuickOutline">
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_WIDTH" value="486"/>
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_HEIGHT" value="346"/>
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_X_ORIGIN" value="434"/>
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_Y_ORIGIN" value="158"/>
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.php.internal.ui.text.PHPOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION" value="true"/>
+	</section>
 </section>
