@@ -14,5 +14,10 @@
 			<type>2</type>
 			<location>/home/pedro/eclipse-workspace/.metadata/.plugins/org.eclipse.php.core/__language__/6d209e46</location>
 		</link>
+		<link>
+			<name>.link3</name>
+			<type>2</type>
+			<location>/var/www/html/ejerciciosPhp2021-2022/.metadata/.plugins/org.eclipse.php.core/__language__/9e3ac719</location>
+		</link>
 	</linkedResources>
 </projectDescription>
