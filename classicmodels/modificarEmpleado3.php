@@ -84,3 +84,4 @@ if ($conexion->query($sql)) {
 } else {
     echo "Error: " . $sql . "<br>" . $conexion->error;
 }
+?>
