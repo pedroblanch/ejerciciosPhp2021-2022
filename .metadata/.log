@@ -8774,3 +8774,13 @@ org.eclipse.jgit.errors.TransportException: https://github.com/pedroblanch/ejerc
 
 !ENTRY org.eclipse.egit.ui 4 0 2022-02-18 12:16:11.336
 !MESSAGE Can't connect to any repository: https://github.com/pedroblanch/ejerciciosPhp2021-2022 (https://github.com/pedroblanch/ejerciciosPhp2021-2022: not authorized)
+!SESSION 2022-02-21 10:25:20.432 -----------------------------------------------
+eclipse.buildId=4.22.0.I20211124-1800
+java.version=11.0.13
+java.vendor=Ubuntu
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.php.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.php.product
+
+!ENTRY org.eclipse.wst.sse.ui 2 2 2022-02-21 10:25:27.046
+!MESSAGE Configuration element ConfigurationElementHandle [name: proposalComputerExtendedActivation, id: org.eclipse.wst.jsdt.web.ui.ContentAssistProposals, handle id: 10198, namespace: org.eclipse.php.ui] intented to extend an existing completion proposal computer specified an invalid completion proposal computer ID org.eclipse.wst.jsdt.web.ui.ContentAssistProposals
